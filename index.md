@@ -9,4 +9,5 @@ Ini adalah website GitHub Pages saya sebagai sarana berbagi info yang saya milik
 - `Memory` — RAM: 4 GB / HDD: 500 GB
 
 
-[About](about.md)
+**[About]** (about.md)
+
