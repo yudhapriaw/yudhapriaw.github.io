@@ -1,6 +1,6 @@
-# Masih Nyoba
+# Laman Dokumentasi Menggunakan Distro Linux Mint 22.2 
 
-Baru nyoba aja bagaimana memanfaatkan fitur github untuk upload konten hehe
+Laman ini akan berisi tentang bagaimana saya setup distro Linux Mint untuk memenuhi kebutuhan pekerjaan saya khususnya bidang administrasi
 
 ## 📁 Struktur Folder
 - `index.html` — Halaman utama website
