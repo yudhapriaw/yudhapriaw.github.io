@@ -4,10 +4,9 @@ Ini adalah website GitHub Pages saya sebagai sarana berbagi info yang saya milik
 # Spesifikasi
 - `Laptop` — Asus X455LD
 - `OS` — Linux Mint 22.2
+- `Kernel` - 6.14.036
 - `CPU` — Intel i5-4210U (4) @ 2.700GHz
 - `GPU` — Intel Haswell-ULT & NVIDIA GeForce 610M/710M/810M/8
 - `Memory` — RAM: 4 GB / HDD: 500 GB
 
-
-[About](about.md)
 
